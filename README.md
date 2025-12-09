@@ -56,19 +56,20 @@
 
 ---
 
-## 📊 <span style="color:#00eaff;">GitHub Stats</span>
+## 📌 <span style="color:#00eaff;">Pinned Projects</span>
 
 <p align="center">
-  <!-- Total Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=nayana-sisil&show_icons=true&theme=radical&hide_border=false&icon_color=00eaff&title_color=00eaff" height="160" />
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayana-sisil&layout=compact&theme=radical&hide_border=false&title_color=00eaff" height="160" />
-</p>
-
-<!-- Streak Stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayana-sisil&theme=radical&hide_border=false&ring=00eaff&fire=ff00ff&currStreakLabel=00eaff" height="180" />
+  <a href="https://github.com/nayana-sisil/data-science-job-market-analysis">
+    <img src="https://img.shields.io/badge/Data%20Science%20Job%20Market-Analysis-blue?style=for-the-badge" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/nayana-sisil/ml-beginner-project">
+    <img src="https://img.shields.io/badge/ML-Beginner%20Project-purple?style=for-the-badge" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/nayana-sisil/data-cleaning-project">
+    <img src="https://img.shields.io/badge/Data%20Cleaning-Project-orange?style=for-the-badge" />
+  </a>
 </p>
 
 ---
@@ -76,3 +77,9 @@
 ## 🚀 <span style="color:#00eaff;">Motto</span>
 
 <p align="center"><em style="color:#ff00ff;">"Stay curious. Build. Learn. Repeat."</em></p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
