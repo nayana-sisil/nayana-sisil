@@ -1,16 +1,78 @@
-## Hi there 👋
+<!-- Header -->
+<h1 align="center">
+  <span style="color:#00eaff;">Hi 👋, I'm <strong>Nayana Sisil</strong></span>
+</h1>
 
-<!--
-**nayana-sisil/nayana-sisil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center" style="color:#8a2be2;">
+  Passionate Data Science Student at SLIIT | Exploring AI, ML & Analytics
+</h3>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00EFFF&center=true&vCenter=true&width=550&lines=Data+Science+Enthusiast;Machine+Learning+Learner;Always+Learning+Something+New+🚀;Turning+Data+Into+Insights+✨">
+</p>
+
+---
+
+## 🌱 <span style="color:#00eaff;">About Me</span>
+
+- 🔭 I’m currently learning **Pandas, Numpy, Scikit-Learn, SQL, ML, DL**  
+- 👯 Looking to collaborate on **Data Analytics & ML Projects**  
+- 💬 Ask me about **Python, EDA, Data Cleaning, Jupyter Notebook**  
+- 👨‍💻 My projects → **[github.com/nayana-sisil](https://github.com/nayana-sisil)**  
+- 📫 Reach me → **nayanasisil@gmail.com**  
+- ⚡ Fun fact → *I learn something new in tech almost every day 🚀*  
+
+---
+
+## 🌐 <span style="color:#00eaff;">Connect With Me</span>
+
+<p align="center">
+<a href="https://linkedin.com/in/nayana-sisil">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="https://kaggle.com/nayanasisil">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="https://facebook.com/nayana.sisil">
+  <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+</p>
+
+---
+
+## 🛠️ <span style="color:#00eaff;">Languages & Tools</span>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,git,github,mysql,tensorflow" height="50" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,vscode,anaconda,postman" height="50" />
+</p>
+
+---
+
+## 📊 <span style="color:#00eaff;">GitHub Stats</span>
+
+<p align="center">
+  <!-- Total Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=nayana-sisil&show_icons=true&theme=radical&hide_border=false&icon_color=00eaff&title_color=00eaff" height="160" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayana-sisil&layout=compact&theme=radical&hide_border=false&title_color=00eaff" height="160" />
+</p>
+
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayana-sisil&theme=radical&hide_border=false&ring=00eaff&fire=ff00ff&currStreakLabel=00eaff" height="180" />
+</p>
+
+---
+
+## 🚀 <span style="color:#00eaff;">Motto</span>
+
+<p align="center"><em style="color:#ff00ff;">"Stay curious. Build. Learn. Repeat."</em></p>
