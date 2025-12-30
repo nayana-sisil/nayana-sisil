@@ -10,19 +10,16 @@
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00EFFF&center=true&vCenter=true&width=550&lines=Data+Science+Enthusiast;Machine+Learning+Learner;Always+Learning+Something+New+🚀;Turning+Data+Into+Insights+✨">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00EFFF&center=true&vCenter=true&width=550&lines=Data+Science+Enthusiast;Machine+Learning;Deep+Learning+And+AI;Turning+Data+Into+Insights">
 </p>
 
 ---
 
 ## 🌱 <span style="color:#00eaff;">About Me</span>
 
-- 🔭 I’m currently learning **Pandas, Numpy, Scikit-Learn, SQL, ML, DL**  
-- 👯 Looking to collaborate on **Data Analytics & ML Projects**  
-- 💬 Ask me about **Python, EDA, Data Cleaning, Jupyter Notebook**  
-- 👨‍💻 My projects → **[github.com/nayana-sisil](https://github.com/nayana-sisil)**  
-- 📫 Reach me → **nayanasisil@gmail.com**  
-- ⚡ Fun fact → *I learn something new in tech almost every day 🚀*  
+I’m an undergraduate Data Science student from SLIIT, currently building a strong foundation in Machine Learning and Data Science through structured learning and hands on projects.
+
+I enjoy going deep into fundamentals rather than just skimming high level concepts, and I focus on applying what I learn through real implementations.
 
 ---
 
