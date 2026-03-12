@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">
-  <span style="color:#00eaff;">Hi 👋, I'm <strong>Nayana Sisil</strong></span>
+  <span style="color:#00eaff;">Hi, I'm <strong>Nayana Sisil</strong></span>
 </h1>
 
 <h3 align="center" style="color:#8a2be2;">
@@ -15,7 +15,7 @@
 
 ---
 
-## 🌱 <span style="color:#00eaff;">About Me</span>
+##  <span style="color:#00eaff;">About Me</span>
 
 I’m an undergraduate Data Science student from SLIIT, currently building a strong foundation in Machine Learning and Data Science through structured learning and hands on projects.
 
@@ -23,7 +23,7 @@ I enjoy going deep into fundamentals rather than just skimming high level concep
 
 ---
 
-## 🌐 <span style="color:#00eaff;">Connect With Me</span>
+##  <span style="color:#00eaff;">Connect With Me</span>
 
 <p align="center">
 <a href="https://linkedin.com/in/nayana-sisil">
@@ -41,7 +41,7 @@ I enjoy going deep into fundamentals rather than just skimming high level concep
 
 ---
 
-## 🛠️ <span style="color:#00eaff;">Languages & Tools</span>
+##  <span style="color:#00eaff;">Languages & Tools</span>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,git,github,mysql,tensorflow" height="50" />
@@ -53,7 +53,7 @@ I enjoy going deep into fundamentals rather than just skimming high level concep
 
 ---
 
-## 📌 <span style="color:#00eaff;">Pinned Projects</span>
+##  <span style="color:#00eaff;">Pinned Projects</span>
 
 <p align="center">
   <a href="https://github.com/nayana-sisil/data-science-job-market-analysis">
