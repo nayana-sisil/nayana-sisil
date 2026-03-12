@@ -71,7 +71,7 @@ I enjoy going deep into fundamentals rather than just skimming high level concep
 
 ---
 
-## 🚀 <span style="color:#00eaff;">Motto</span>
+##  <span style="color:#00eaff;">Motto</span>
 
 <p align="center"><em style="color:#ff00ff;">"Stay curious. Build. Learn. Repeat."</em></p>
 
