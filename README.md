@@ -21,7 +21,7 @@
 
 ## About
 
-I'm a Data Science undergraduate at **SLIIT**, currently working as an **ML Engineer Intern at SpectrifyAI**, focused on computer vision and agentic RAG systems. I like building things end to end from data cleaning to a deployed, working demo and tying every model back to a real business number: cost savings, ROI, and precision-recall tradeoffs that actually matter.
+I'm a Data Science undergraduate at **SLIIT**, currently working as an **ML Engineer Intern at SpectrifyAI**, focused on computer vision and agentic RAG systems. I like building things end to end from data cleaning to a deployed, working demo and tying every model back to a real business number: cost savings, ROI, and precision recall tradeoffs that actually matter.
 
 <table>
 <tr>
